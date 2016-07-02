@@ -2,6 +2,7 @@
 Program Name:   ReverseAString
 Progammer:      Victoria Brown
 Date:           July 2016
+Language:       Java
 Purpose:        Enter a string and the program will reverse it and print it
                 out.
 */
